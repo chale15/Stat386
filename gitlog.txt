@@ -1,0 +1,16 @@
+7a1d7c0 Merge pull request #1 from alyssajford/feature-alyssajford
+0ecc8c9 random.txt
+ecd0f66 Resolve merge conflict :
+ac3ed2f Change new_features.txt on features branch
+fe66254 Update new_features.txt
+87125af Merge branch 'features'
+9ee625b Update file_1.txt
+9927717 Update new_features.txt
+8cb5b6f add empty file
+10cdf30 Add .gitignore file
+a81a469 Update file_2.txt
+8869af4 Update file_1.txt
+f27667e create new files
+bae6be5 Delete test.txt
+8a693d7 test commit
+4979d0a Initial commit
